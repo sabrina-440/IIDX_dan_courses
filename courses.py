@@ -26,6 +26,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["Double Dribble", "Last Dance", "Crank It", "HAPPY☆ANGEL"],
         "31 EPOLIS": ["EDEN", "STARLIGHT DANCEHALL", "IDOL syndrome.", "HAPPY☆ANGEL"],
         "32 Pinky Crush": ["EDEN", "STARLIGHT DANCEHALL", "IDOL syndrome.", "HAPPY☆ANGEL"],
+        "33 Sparkle Shower": ["8bit Princess", "サヨナラ・ヘヴン", "BroGamer", "HAPPY☆ANGEL"],
     },
 
     "2nd Dan": {
@@ -56,6 +57,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["Release The Music", "IDC feat.REVERBEE (Mo'Cuts Ver)", "Do What You Want", "Ariah"],
         "31 EPOLIS": ["Mel", "IDC feat.REVERBEE (Mo'Cuts Ver)", "Zenius -I- vanisher", "Ariah"],
         "32 Pinky Crush": ["Iris", "WHA", "Zenius -I- vanisher", "Ariah"],
+        "33 Sparkle Shower": ["Vulnerability", "Vulnerability", "Elemental Creation", "Damage Per Second"],
     },
 
     "3rd Dan": {
@@ -85,6 +87,8 @@ dan_courses_sp = {
         "30 RESIDENT": ["Seaside Labyrinth", "Xlø", "Forgetting Machine", "N.O."],
         "31 EPOLIS": ["SAMSARA", "Seaside Labyrinth", "SPEED DEMON", "龍と少女とデコヒーレンス"],
         "32 Pinky Crush": ["SAMSARA", "Seaside Labyrinth", "SPEED DEMON", "into the battlefield"],
+        "33 Sparkle Shower": ["ANEMONE","Lighting Shower", "DAZZLE ATTACK", "HAT TRICK"],
+        
     },
 
     "4th Dan": {
@@ -114,6 +118,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["口カラ凸ゲキ", "打打打打打打打打打打", "Wolf 1061", "QQQ"],
         "31 EPOLIS": ["口カラ凸ゲキ", "Theory", "Wolf 1061", "Egret and Willow"],
         "32 Pinky Crush": ["The Commanders", "smooooch・∀・ (Snail's House Remix)", "HAT TRICK", "HYPER BOUNDARY GATE"],
+        "33 Sparkle Shower": ["Rock It","儚キ戀ノ幻想譚", "Blue Rain", "牧神笛吹きて"],
     },
 
     "5th Dan": {
@@ -144,6 +149,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["CROSSROAD", "LIGHTNING STRIKES", "DISPARATE", "Dr. Chemical & Killing Machine"],
         "31 EPOLIS": ["Sugarplum", "Critical Crystal", "Nocturnal 2097", "東京神話"],
         "32 Pinky Crush": ["Sugarplum", "CUE CUE RESCUE", "Nocturnal 2097", "Dr. Chemical & Killing Machine"],
+        "33 Sparkle Shower": ["Lawes's Parotia","PIT A PAT", "Nocturnal 2097", "Dr. Chemical & Killing Machine"],
     },
 
     "6th Dan": {
@@ -173,6 +179,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["Turii ～Panta rhei～", "Digitank System", "Sphere", "Hurry Hurry"],
         "31 EPOLIS": ["satfinal", "黒髪乱れし修羅となりて", "Push on Beats!～音ゲの国のeX-ストリーマー～", "IXION"],
         "32 Pinky Crush": ["Boomy and The Boost", "青の洞窟", "POLꞰAMAИIA", "IXION"],
+        "33 Sparkle Shower": ["RED ZONE", "COSMIC☆WONDER☆REVOLUTION", "bloomin' feeling", "夕焼け ～Fading Day～"],
     },
 
     "7th Dan": {
@@ -202,6 +209,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["BroGamer", "entelecheia", "Flash Back 90's", "THE SAFARI"],
         "31 EPOLIS": ["HEARTACHE", "ruin of opals", "Rowdy", "THE SAFARI"],
         "32 Pinky Crush": ["華爛漫 -Flowers-", "Devil's Gear", "Tripping Jumping", "THE SAFARI"],
+        "33 Sparkle Shower": ["アタシ完全絶対正義ちゃん！", "Zenius -I- vanisher", "Tripping Jumping", "THE SAFARI"],
     },
 
     "8th Dan": {
@@ -231,6 +239,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["Chewingood!!!", "GOLD RUSH", "Miracle 5ympho X", "Amazing Mirage"],
         "31 EPOLIS": ["GET UP AGAIN", "DENIM", "Miracle 5ympho X", "Fervidex"],
         "32 Pinky Crush": ["BLACK JACKAL", "SigSig", "ちょえちょえまぎか", "BRAINSTORM"],
+        "33 Sparkle Shower": ["Turii ～Panta rhei～", "SigSig", "Shadow World", "BRAINSTORM"],
     },
 
     "9th Dan": {
@@ -261,6 +270,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["Burning Flame", "nostos", "& Intelligence", "Todestrieb"],
         "31 EPOLIS": ["City Never Sleeps (IIDX Edition)", "chaos eater -IIDX edition-", "In the Blackest Den", "禊"],
         "32 Pinky Crush": ["君のハートにロックオン", "C-C-C-N-N-N", "錬成人間トリコロイダー", "禊"],
+        "33 Sparkle Shower": ["THE TIME MACHINE", "SAMURAI-Scramble", "Bow shock!!", "禊"],
     },
 
     "10th Dan": {
@@ -291,6 +301,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["Rampage", "Level 2", "GENE", "BEAT PRISONER"],
         "31 EPOLIS": ["Nightmare before oversleep", "Level 2", "entelecheia", "BEAT PRISONER"],
         "32 Pinky Crush": ["T-REX vs Velociraptor (In the Far east euphoria)", "焱影", "BITTER CHOCOLATE STRIKER", "NITROUS CANNON"],
+        "33 Sparkle Shower": ["電人、暁に斃れる。", "Watch Out Pt.2", "Colorful Cookie", "BEAT PRISONER"],
     },
 
     "Chuuden": {
