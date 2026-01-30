@@ -315,6 +315,7 @@ dan_courses_sp = {
         "30 RESIDENT": ["Smashing Wedge", "LOCUS OF THE TRAVEL", "天空の夜明け", "perditus†paradisus"],
         "31 EPOLIS": ["ALTERNATOR", "voltississimo", "天空の夜明け", "perditus†paradisus"],
         "32 Pinky Crush": ["お菓子の王国", "天空の夜明け", "WHA", "Bad Encryption"],
+        "33 Sparkle Shower": ["THE BRAVE MUST DIE [A]", "Initiation [A]", "Ignis†Iræ [A]", "Bad Encryption [A]"],
     },
 
     "Kaiden": {
@@ -337,6 +338,7 @@ dan_courses_sp = {
         "29 CastHour": ["EMERALDAS", "灼熱Beach Side Bunny", "卑弥呼", "冥"],
         "30 RESIDENT": ["EMERALDAS", "灼熱Beach Side Bunny", "卑弥呼", "冥"],
         "31 EPOLIS": ["EMERALDAS", "灼熱Beach Side Bunny", "卑弥呼", "冥"],
+        "32 Pinky Crush": ["Somnidiscotheque", "灼熱Beach Side Bunny", "卑弥呼", "冥"],
         "32 Pinky Crush": ["Somnidiscotheque", "灼熱Beach Side Bunny", "卑弥呼", "冥"],
     },
 }
